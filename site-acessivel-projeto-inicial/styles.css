@@ -140,3 +140,19 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+
+.dark-mode{
+    background-color: #121212;
+    color: #fff;
+
+}
+
+.dark-mode header {
+    background-color: #1e1e1e;
+}
+
+.dark-mode galeria {
+    background-color: #1e1e1e;
+}
+
+.dark-mode 
